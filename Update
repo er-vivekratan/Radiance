@@ -1,2 +1,43 @@
+                                        -Updates to be Added in Website-
+
+-----------------------------------------------------------------------------------------------------------------------
 ek list jismei jo jo add krte rahenge unka price aut list bgerha banti rahegi side mei. sticky list.
 jisse ye pata chalta rahega ki humnei ky ky add kr liya hai
+
+-----------------------------------------------------------------------------------------------------------------------
+Hair Color
+Dye
+
+-----------------------------------------------------------------------------------------------------------------------
+image name [    M               (mehendi)
+                0/H/L           (hand/leg)
+                0/T/B           (Top/Bottom)
+                0/S/M/L/X       (size: short/medium/large/x-large)
+                0/L/R           (left/Right) ]
+                (00/01/..n)     (Serial Number)
+ i.e    M0TM000.png [both top    medium both-left/right 00]
+        MHBL001.png [hath bottom large  both-left/right 01]
+        XXXXXXXXXXXXXXXXXXXXXXXX
+
+        /Mehendi/Hand/S /0000.jpg
+                        /RT00.jpg
+                        /LB00.jpg
+                     /M /0000.jpg
+                        /RT00.jpg
+                        /LB00.jpg
+                     /L /L00.jpg
+                        /RR00.jpg
+                /Leg/S  /000.jpg
+                        /R00.jpg
+                        /L00.jpg
+                     /M /000.jpg
+                        /R00.jpg
+                        /L00.jpg
+                     /L /000.jpg
+                        /R00.jpg
+                        /L00.jpg
+
+-----------------------------------------------------------------------------------------------------------------------
+video Galary for design help
+
+-----------------------------------------------------------------------------------------------------------------------
